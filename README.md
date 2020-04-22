@@ -4,5 +4,5 @@
 
 You can find me on:
 
-* [💻 Github](github.com/edouard-lopez/)
+* [💻 Github](https://github.com/edouard-lopez/)
 * [🐦 Twitter](https://twitter.com/edouard_lopez)
