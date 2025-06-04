@@ -15,7 +15,7 @@
 
 You can find me on:
 
-* <a href="https://github.com/edouard-lopez" rel="me" />💻 Github</a>
+* <a href="https://github.com/edouard-lopez" rel="me" >💻 Github</a>
 * <a rel="me" href="https://piaille.fr/@edouard_lopez">🐘 Mastodon</a> (Piaille)
 * [🐦 BlueSky](https://twitter.com/edouard_lopez)
 * <s><a rel="me" href="https://twitter.com/edouard_lopez">🐦 Twitter</a></s>
